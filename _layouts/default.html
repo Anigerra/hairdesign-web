@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <script src="https://kit.fontawesome.com/470a6c64df.js" crossorigin="anonymous"></script>
+  <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', () => {
+
+      // Get all "navbar-burger" elements
+      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+      // Add a click event on each of them
+      $navbarBurgers.forEach(el => {
+        el.addEventListener('click', () => {
+
+          // Get the target from the "data-target" attribute
+          const target = el.dataset.target;
+          const $target = document.getElementById(target);
+
+          // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+          el.classList.toggle('is-active');
+          $target.classList.toggle('is-active');
+
+        });
+      });
+
+    });
+  </script>
+</head>
+
+<body>
+  <!-- Begin Hero -->
+  <section class="hero is-small">
+    <div class="container">
+      <div class="hero-head"></div>
+      <div class="hero-body">
+        <!-- Begin Hero Content-->
+        <div class="container">
+          <a href="{{site.baseurl}}">
+            <img src="images/logo_min.png" />
+          </a>
+        </div>
+        <!-- End Hero Content-->
+      </div>
+      <div class="hero-foot">
+        <!-- Begin Mobile Nav -->
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+          <!-- Begin Burger Menu -->
+          <div class="navbar-brand is-justify-content-center">
+            <a role="button" class="navbar-burger mx-auto" data-target="navMenu" aria-label="menu" aria-expanded="false">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+          </div>
+          <!-- End Burger Menu -->
+          
+          <div class="navbar-menu is-justify-content-center" id="navMenu">
+            
+              <a class="navbar-item has-text-centered" href="{{site.baseurl}}index">
+                Willkommen
+              </a>
+              <a class="navbar-item has-text-centered" href="{{site.baseurl}}preise">
+                Preise
+              </a>
+              <a class="navbar-item has-text-centered" href="{{site.baseurl}}index#produkte">
+                Produkte
+              </a>
+              <a class="navbar-item has-text-centered" href="{{site.baseurl}}index#kontakt">
+                Kontakt
+              </a>
+          </div>
+        </nav>
+        <!-- End Mobile Nav -->
+      </div>
+
+    </div>
+  </section>
+  <!-- End Hero -->
+
+  {{ content }}
+
+  <footer class="footer">
+    <div class="content has-text-centered has-text-weight-light">
+      <strong> &copy;{{ "now" | date: "%Y"}} Hairdesign Irina Erlenbusch </strong> | <a href="{{site.baseurl}}impressum">Impressum</a> | <a href="{{site.baseurl}}datenschutz">Datenschutz</a>
+    </div>
+  </footer>
+</body>
+
+</html>
