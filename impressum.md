@@ -8,7 +8,7 @@ title: Impressum
     <div class="block">
         <h1 class="title has-text-centered">Impressum</h1>
     </div>
-    <div class="block">
+    <div class="block px-4">
         
 
 <p class="block">
@@ -50,7 +50,7 @@ Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; §27 a Umsatzsteuergesetz:</
 
 </div>
 
-<div class="block mb-5">
+<div class="block mb-5 px-4">
 <h2 class="title is-5">Haftung für Inhalte</h2>
 
 <p class="block">Die auf den Web-Seiten abrufbaren Beiträge dienen nur der allgemeinen Information und nicht der Beratung in konkreten Fällen. Wir sind bemüht, für die Richtigkeit und Aktualität aller auf der Website enthaltenen Informationen und Daten gemäß § 7 Abs.1 TMG zu sorgen. Für die Korrektheit, die Vollständigkeit, die Aktualität oder Qualität der bereitgestellten Informationen und Daten wird jedoch keine Gewähr nach § 8 bis 10 TMG übernommen. Die Haftung für den Inhalt der abrufbaren Informationen wird ausgeschlossen, soweit es sich nicht um vorsätzliche oder grob fahrlässige Falschinformation handelt. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</p>
