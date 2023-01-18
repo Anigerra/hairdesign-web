@@ -76,7 +76,7 @@ title: Datenschutz&shy;erkl&auml;rung
 <p class="block">Quelle: <a href="https://www.e-recht24.de">https://www.e-recht24.de</a></p>
 </div>
 
-<div class="">
+<div class="px-4">
   <h1 class="title is-5"> Hosting</h1>
   
   <p class="block">
