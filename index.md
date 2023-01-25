@@ -8,7 +8,7 @@ title:
     <div class="container">
         <div class="block">
             <figure class="image is-3by1">
-                <img src="images/Bild013_flat.jpeg">
+                <img src="/images/Bild013_flat.jpeg">
             </figure>
         </div>
         <div class="block">
@@ -80,7 +80,7 @@ title:
     <div class="container">
         <div class="block">
             <figure class="image is-3by1">
-                <img src="images/Bild024_flat.jpeg">
+                <img src="/images/Bild024_flat.jpeg">
             </figure>
         </div>
         <div class="block">
@@ -101,7 +101,7 @@ title:
     <div class="container">
         <div class="block">
             <figure class="image is-3by1">
-                <img src="images/Bild040_flat.jpeg">
+                <img src="/images/Bild040_flat.jpeg">
             </figure>
         </div>
         <div class="block">
@@ -117,9 +117,9 @@ title:
                 +49 7191 187 83 08
             </a>
             <br/>
-            <a href="http://hairdesign-irina-erlenbusch.de" target="_blank">
+            <a href="https://hairdesign-irina-erlenbusch.de" target="_blank">
                 <i class="fa fa-globe" aria-hidden="true"></i>
-                http://hairdesign-irina-erlenbusch.de
+                https://hairdesign-irina-erlenbusch.de
             </a>
         </div>
         <div class="block">
