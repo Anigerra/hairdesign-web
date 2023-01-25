@@ -8,7 +8,7 @@ title: Datenschutz&shy;erkl&auml;rung
         <h1 class="title has-text-centered">Datenschutz&shy;erkl&auml;rung</h1>
     </div>
 
-<div class="px-4">
+<div class="px-4 mb-5">
 <p class="block">Die Betreiber dieser Seiten nehmen den Schutz Ihrer pers&ouml;nlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerkl&auml;rung.</p> 
 
 <p class="block">Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie pers&ouml;nlich identifiziert werden k&ouml;nnen. Die vorliegende Datenschutzerkl&auml;rung erl&auml;utert, welche Daten wir erheben und wof&uuml;r wir sie nutzen. Sie erl&auml;utert auch, wie und zu welchem Zweck das geschieht.
@@ -76,7 +76,7 @@ title: Datenschutz&shy;erkl&auml;rung
 <p class="block">Quelle: <a href="https://www.e-recht24.de">https://www.e-recht24.de</a></p>
 </div>
 
-<div class="px-4">
+<div class="px-4 mb-5">
   <h1 class="title is-5"> Hosting</h1>
   
   <p class="block">
