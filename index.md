@@ -38,7 +38,7 @@ title:
             <strong>&Ouml;ffnungszeiten</strong>
             <br/>
             <i class="fa fa-clock-o" aria-hidden="true"></i>
-            Mo &ndash; Fr 9 &ndash; 18 Uhr / Sa 9 &ndash; 14 Uhr
+            Mo &ndash; Fr 9 &ndash; 18 Uhr
             <br/>
             Termin nach Vereinbarung
         </div>
@@ -126,7 +126,6 @@ title:
             <strong>&Ouml;ffnungszeiten</strong>
             <br/>
             Mo &ndash; Fr 9 &ndash; 18 Uhr<br/>
-            Sa 9 &ndash; 14 Uhr<br/>
             Termin nach Vereinbarung
         </div>
     </div>
