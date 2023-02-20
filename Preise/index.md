@@ -12,20 +12,20 @@ title: Preise
         <div class="block is-centered">
             <div class="columns">
             <div class="column mx-4">
-                <div class="columns is-mobile mb-0">
-                    <div class="column is-three-fifths is-offset-one-fifth mgl-small">
+                <div class="columns mb-0">
+                    <div class="column is-three-fifths is-offset-one-fifth is-two-third-mobile mgl-small">
                     <p class="has-text-weight-bold">
                         {{ sec.name | upcase }}
                     </p>
                     </div>
                 </div>
-                <div class="columns is-mobile my-0">
+                <div class="columns my-0">
                     <div class="column is-three-fifths is-offset-one-fifth">
                         <hr class="my-0"/>
                     </div>
                 </div>
                 {% for subsec in sec.subsections %}
-                    <div class="columns is-mobile my-0">
+                    <div class="columns my-0">
                         <div class="column is-three-fifths is-offset-one-fifth mgl-small">
                             <p class="{{subsec.class}} pb-2">{{ subsec.name | upcase }}</p>
                         </div>
@@ -33,11 +33,11 @@ title: Preise
                     {% for leistung in subsec.leistungen %}
                         <div class="columns is-mobile">
                             <div class="column has-text-centered mgl-small "></div>
-                            <div class="column is-two-fifths mgl-small">
+                            <div class="column is-two-fifths is-half-mobile mgl-small">
                                 <p>{{ leistung.name | upcase }}</p>
                                 <p class="has-text-weight-light">{{ leistung.genauer }}</p>
                             </div>
-                            <div class="column has-text-centered mgl-small ">
+                            <div class="column has-text-centered is-one-third-mobile mgl-small ">
                                 <p>{{ leistung.master }}</p>
                             </div>
                             <div class="column has-text-centered mgl-small "></div>
