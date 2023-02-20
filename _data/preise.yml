@@ -6,11 +6,11 @@ sections:
         leistungen:
           - name: Haarschnitt & Styling
             genauer: Beratung - Verw&ouml;hnhaarw&auml;sche - Typgerechter Haarschnitt - Frisurenstyling
-            master: 56,-
+            master: 58,50*
             top: 47,-
           - name: Styling
             genauer: Beratung - Verwöhnhaarwäsche - Frisurenstyling
-            master: 33,-
+            master: 35,-*
             top: 28,-
           - name: Brautfrisur & Make-Up
             genauer: + Probetermin
@@ -21,19 +21,23 @@ sections:
         leistungen: 
           - name: Herrenpaket Basic
             genauer: Haarwäsche - Typgerechter Haarschnitt - Finish
-            master: 32,-
+            master: 33,50*
             top: 28,- 
           - name: Herrenpaket Relax   
             genauer: Herrenpaket basic + vitalisierende Kopfmassage
-            master: 47,-
+            master: 49,50*
             top: 40,-
       - name: Kinder
         class: has-text-weight-bold 
         leistungen:
-          - name: Kinderpaket Basic
+          - name: bis 13 Jahre
             genauer: 
-            master: 27,-
+            master: 29,-
             top: 23,-
+          - name: ab 13 Jahre
+            genauer: 
+            master: regulärer Preis
+            top: 
   - name: Color Treatments
     subsections:
       - name: Coloration
@@ -41,22 +45,22 @@ sections:
         leistungen:
           - name: "- Ansatz"
             genauer: 
-            master: 47,-
+            master: 49,-*
             top: 47,-
           - name: "- Ansatz und Längen"
             genauer:
-            master: 62,-
+            master: 63,-*
             top: 62,-
       - name: Strähnen
         class:
         leistungen:
           - name: "- Oberkopf"
             genauer:
-            master: 50,-
+            master: 63,-*
             top: 50,-
           - name: "- Ganzer Kopf"
             genauer:
-            master: 75,-
+            master: 84,-*
             top: 75,-
           - name: Kreative Color Techniken
             genauer: Balayage - Ombre - Painting
@@ -64,7 +68,7 @@ sections:
             top:
           - name: Protection Cheveux Complexe
             genauer: Wirkstoffkomplex zum Schutz und Rekonstruktion der Haarstruktur bei chemischen Behandlungen
-            master: 27,-
+            master: 28,50*
             top: 27,-
   - name: Beauty Treatments
     subsections:
@@ -77,7 +81,7 @@ sections:
             top: 
           - name: "- Färben"
             genauer:
-            master: 12,-
+            master: 13,-
             top: 12,-
           - name: "- Zupfen"
             genauer:
@@ -85,17 +89,17 @@ sections:
             top: 13,-
           - name: Wimpern Färben
             genauer: 
-            master: 17,-
+            master: 18,-
             top: 17,-
       - name: Make-Up
         class: has-text-weight-bold 
         leistungen:
           - name: Tages-/Trend-Make-Up
             genauer:
-            master: 26,-
+            master: 35,-
             top:
           - name: Abend-Make-Up
             genauer: Professionelles Make-Up für besondere Anlässe
-            master: 40,-
+            master: 50,-
             top: 
         
