@@ -6,38 +6,16 @@ sections:
         leistungen:
           - name: Haarschnitt & Styling
             genauer: Beratung - Verw&ouml;hnhaarw&auml;sche - Typgerechter Haarschnitt - Frisurenstyling
-            master: 58,50*
-            top: 47,-
+            preis: ab 61,00
           - name: Styling
             genauer: Beratung - Verwöhnhaarwäsche - Frisurenstyling
-            master: 35,-*
-            top: 28,-
-          - name: Brautfrisur & Make-Up
-            genauer: + Probetermin
-            master: Preis auf Anfrage
-            top:
+            preis: ab 36,00
       - name: Herren
         class: has-text-weight-bold 
         leistungen: 
           - name: Herrenpaket Basic
             genauer: Haarwäsche - Typgerechter Haarschnitt - Finish
-            master: 33,50*
-            top: 28,- 
-          - name: Herrenpaket Relax   
-            genauer: Herrenpaket basic + vitalisierende Kopfmassage
-            master: 49,50*
-            top: 40,-
-      - name: Kinder
-        class: has-text-weight-bold 
-        leistungen:
-          - name: bis 13 Jahre
-            genauer: 
-            master: 29,-
-            top: 23,-
-          - name: ab 13 Jahre
-            genauer: 
-            master: regulärer Preis
-            top: 
+            preis: 35,00
   - name: Color Treatments
     subsections:
       - name: Coloration
@@ -45,31 +23,28 @@ sections:
         leistungen:
           - name: "- Ansatz"
             genauer: 
-            master: 49,-*
-            top: 47,-
+            preis: ab 51,00
           - name: "- Ansatz und Längen"
             genauer:
-            master: 63,-*
-            top: 62,-
+            preis: ab 64,00
       - name: Strähnen
         class:
         leistungen:
           - name: "- Oberkopf"
             genauer:
-            master: 63,-*
-            top: 50,-
+            preis: ab 90,00
           - name: "- Ganzer Kopf"
             genauer:
-            master: 84,-*
-            top: 75,-
+            preis: ab 120,00
           - name: Kreative Color Techniken
             genauer: Balayage - Ombre - Painting
-            master: Preis auf Anfrage
-            top:
+            preis: ab 200,00
+          - name: Volumenwelle
+            genauer:
+            preis: ab 70,00
           - name: Protection Cheveux Complexe
             genauer: Wirkstoffkomplex zum Schutz und Rekonstruktion der Haarstruktur bei chemischen Behandlungen
-            master: 28,50*
-            top: 27,-
+            master: 28,50
   - name: Beauty Treatments
     subsections:
       - name: Augen
@@ -81,25 +56,11 @@ sections:
             top: 
           - name: "- Färben"
             genauer:
-            master: 13,-
-            top: 12,-
+            preis: 14,00
           - name: "- Zupfen"
             genauer:
-            master: 13,-
-            top: 13,-
+            preis: 15,00
           - name: Wimpern Färben
             genauer: 
-            master: 18,-
-            top: 17,-
-      - name: Make-Up
-        class: has-text-weight-bold 
-        leistungen:
-          - name: Tages-/Trend-Make-Up
-            genauer:
-            master: 35,-
-            top:
-          - name: Abend-Make-Up
-            genauer: Professionelles Make-Up für besondere Anlässe
-            master: 50,-
-            top: 
+            preis: 18,00
         

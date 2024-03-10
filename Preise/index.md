@@ -38,7 +38,7 @@ title: Preise
                                 <p class="has-text-weight-light">{{ leistung.genauer }}</p>
                             </div>
                             <div class="column has-text-centered is-one-third-mobile mgl-small ">
-                                <p>{{ leistung.master }}</p>
+                                <p>{{ leistung.preis }}</p>
                             </div>
                             <div class="column has-text-centered mgl-small "></div>
                         </div>
