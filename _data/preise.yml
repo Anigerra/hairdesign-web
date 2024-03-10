@@ -44,7 +44,7 @@ sections:
             preis: ab 70,-
           - name: Protection Cheveux Complexe
             genauer: Wirkstoffkomplex zum Schutz und Rekonstruktion der Haarstruktur bei chemischen Behandlungen
-            preis: 28,50
+            preis: "28,50"
   - name: Beauty Treatments
     subsections:
       - name: Augen
