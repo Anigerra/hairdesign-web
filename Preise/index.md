@@ -50,7 +50,7 @@ title: Preise
     {% endfor %}
     <div class="block">
     <p class="footer has-text-weight-light">
-        * Auszug aus unserer Preisliste in Euro. Die angegebenen Preise sind Grundpreise, die von einem durchschnittlichen Aufwand ausgehen. Bei hoeherem Aufwand erhalten Sie ein separates Angebot.
+        * Auszug aus unserer Preisliste in Euro. Die angegebenen Preise sind Grundpreise, die von einem durchschnittlichen Aufwand ausgehen. Bei höherem Aufwand erhalten Sie ein separates Angebot. Bezahlung in Bar oder via EC-Karte möglich. 
     </p>
     </div>
 </div><!-- end container -->
