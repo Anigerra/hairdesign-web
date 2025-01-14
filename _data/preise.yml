@@ -15,7 +15,7 @@ sections:
         leistungen: 
           - name: Herrenpaket Basic
             genauer: Haarwäsche - Typgerechter Haarschnitt - Finish
-            preis: 36,50
+            preis: "36,50"
   - name: Color Treatments
     subsections:
       - name: Coloration
@@ -44,7 +44,7 @@ sections:
             preis: ab 72,-
           - name: Protection Cheveux Complexe
             genauer: Wirkstoffkomplex zum Schutz und Rekonstruktion der Haarstruktur bei chemischen Behandlungen
-            preis: 31,50
+            preis: "31,50"
   - name: Beauty Treatments
     subsections:
       - name: Augen
@@ -55,11 +55,11 @@ sections:
             preis: 
           - name: "- Färben"
             genauer:
-            preis: 14,50
+            preis: "14,50"
           - name: "- Zupfen"
             genauer:
-            preis: 15,50
+            preis: "15,50"
           - name: Wimpern Färben
             genauer: 
-            preis: 18,50
+            preis: "18,50"
         
