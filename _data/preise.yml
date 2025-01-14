@@ -6,16 +6,16 @@ sections:
         leistungen:
           - name: Haarschnitt & Styling
             genauer: Beratung - Verw&ouml;hnhaarw&auml;sche - Typgerechter Haarschnitt - Frisurenstyling
-            preis: ab 61,-
+            preis: ab 63,-
           - name: Styling
             genauer: Beratung - Verwöhnhaarwäsche - Frisurenstyling
-            preis: ab 36,-
+            preis: ab 37,50
       - name: Herren
         class: has-text-weight-bold 
         leistungen: 
           - name: Herrenpaket Basic
             genauer: Haarwäsche - Typgerechter Haarschnitt - Finish
-            preis: 35,-
+            preis: 36,50
   - name: Color Treatments
     subsections:
       - name: Coloration
@@ -23,28 +23,28 @@ sections:
         leistungen:
           - name: "- Ansatz"
             genauer: 
-            preis: ab 51,-
+            preis: ab 53,-
           - name: "- Ansatz und Längen"
             genauer:
-            preis: ab 64,-
+            preis: ab 66,50
       - name: Strähnen
         class:
         leistungen:
           - name: "- Oberkopf"
             genauer:
-            preis: ab 90,-
+            preis: ab 93,50
           - name: "- Ganzer Kopf"
             genauer:
-            preis: ab 120,-
+            preis: ab 160,-
           - name: Kreative Color Techniken
             genauer: Balayage - Ombre - Painting
-            preis: ab 200,-
+            preis: ab 207,-
           - name: Volumenwelle
             genauer:
-            preis: ab 70,-
+            preis: ab 72,-
           - name: Protection Cheveux Complexe
             genauer: Wirkstoffkomplex zum Schutz und Rekonstruktion der Haarstruktur bei chemischen Behandlungen
-            preis: "28,50"
+            preis: 31,50
   - name: Beauty Treatments
     subsections:
       - name: Augen
@@ -55,11 +55,11 @@ sections:
             preis: 
           - name: "- Färben"
             genauer:
-            preis: 14,-
+            preis: 14,50
           - name: "- Zupfen"
             genauer:
-            preis: 15,-
+            preis: 15,50
           - name: Wimpern Färben
             genauer: 
-            preis: 18,-
+            preis: 18,50
         
