@@ -18,12 +18,15 @@ title:
         </div>
         <div class="block">
             <p>
-            Sie suchen einen Frischekick, neue Ideen für Ihr Haar oder einfach ein 'Mehr' für Ihre Ausstrahlung? 
-            Dabei möchten Sie Ihr Haar schonen und mit der neuen Frisur auch nach Ihrem Friseurbesuch gut zu recht kommen?
-            Dann sind Sie bei mir richtig!
+            Sie wünschen sich einen Frischekick, neue Inspirationen für Ihr Haar oder einfach ein kleines „Mehr“ für Ihre Ausstrahlung? Und dabei ist Ihnen wichtig, dass Ihr Haar gesund bleibt und Ihre neue Frisur auch im Alltag problemlos sitzt? 
+            </p>
+            <p>Dann sind Sie bei mir genau richtig!
             </p>
             <p>
-            Mein Ziel ist nachhaltige Kundenzufriedenheit. Meine Kunden sind glücklich mit ihrem Styling, wenn sie aus meinem Salon rauskommen und sollen auch nach ihrem Besuch bei mir mit ihrem Haar zufrieden bleiben. Ich biete qualitative Pflege und Beratung, frische Ideen und fachgerechte Umsetzung ihrer Wünsche. Ich bilde mich für Sie weiter und helfe Ihnen gern Ihre natürliche Ausstrahlung zur Geltung zu bringen.
+            Mir liegt es am Herzen, dass Sie sich nicht nur direkt nach Ihrem Friseurbesuch, sondern auch Wochen später noch über Ihr Styling freuen. Mit viel Liebe zum Detail, hochwertiger Pflege und individueller Beratung setze ich Ihre Wünsche fachgerecht um. Durch regelmäßige Weiterbildungen bleibe ich für Sie immer auf dem neuesten Stand und unterstütze Sie dabei, Ihre natürliche Schönheit optimal zur Geltung zu bringen.
+            </p>
+            <p>    
+Ich freue mich darauf, Sie in meinem Salon willkommen zu heißen!
             </p>
         </div>
         <div class="block">
