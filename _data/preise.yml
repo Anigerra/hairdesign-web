@@ -6,7 +6,7 @@ sections:
         leistungen:
           - name: Haarschnitt & Styling
             genauer: Beratung - Verw&ouml;hnhaarw&auml;sche - Typgerechter Haarschnitt - Frisurenstyling
-            preis: ab 63,-
+            preis: ab 67,-
           - name: Styling
             genauer: Beratung - Verwöhnhaarwäsche - Frisurenstyling
             preis: ab 37,50
@@ -15,7 +15,7 @@ sections:
         leistungen: 
           - name: Herrenpaket Basic
             genauer: Haarwäsche - Typgerechter Haarschnitt - Finish
-            preis: "36,50"
+            preis: 39,-
   - name: Color Treatments
     subsections:
       - name: Coloration
@@ -23,22 +23,25 @@ sections:
         leistungen:
           - name: "- Ansatz"
             genauer: 
-            preis: ab 53,-
+            preis: ab 57,-
           - name: "- Ansatz und Längen"
             genauer:
-            preis: ab 66,50
+            preis: ab 67,-
       - name: Strähnen
         class:
         leistungen:
           - name: "- Oberkopf"
             genauer:
-            preis: ab 93,50
+            preis: ab 103
           - name: "- Ganzer Kopf"
             genauer:
             preis: ab 160,-
+          - name: "- Lang"
+            genauer:
+            preis: ab 200,-
           - name: Kreative Color Techniken
             genauer: Balayage - Ombre - Painting
-            preis: ab 207,-
+            preis: ab 250,-
           - name: Volumenwelle
             genauer:
             preis: ab 72,-
