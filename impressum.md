@@ -35,19 +35,7 @@ title: Impressum
             +49 7191 187 83 08
 </p>
 
-<h2 class="has-text-weight-light">
-Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; §27 a Umsatzsteuergesetz:</h2>
 
-<p class="block">
-	62 414 978 530
-</p>
-<h2 class="has-text-weight-light">
-Zuständige Kammer:
-</h2>
-
-<p class="block">
-	Handwerkskammer Region Stuttgart
-</p>
 <h2 class="has-text-weight-light">Bilder und Grafiken:</h2>
 
 <p class="block">
