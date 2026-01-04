@@ -9,7 +9,7 @@ sections:
             preis: ab 67,-
           - name: Styling
             genauer: Beratung - Verwöhnhaarwäsche - Frisurenstyling
-            preis: ab 37,50
+            preis: ab 42,-
       - name: Herren
         class: has-text-weight-bold 
         leistungen: 
@@ -32,7 +32,7 @@ sections:
         leistungen:
           - name: "- Oberkopf"
             genauer:
-            preis: ab 103
+            preis: ab 103,-
           - name: "- Ganzer Kopf"
             genauer:
             preis: ab 160,-
