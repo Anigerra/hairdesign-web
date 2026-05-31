@@ -19,12 +19,12 @@ title: Preise
                     </p>
                 </div>
                 <div class="column">
-                    {% if sec.name != ("Beauty Treatments"||"Color Treatments") %}
+                    {% if sec.name != "Beauty Treatments" & sec.name != "Color Treatments") %}
                     <p>Irina</p>
                     {% endif %}
                 </div>
                 <div class="column">
-                    {% if sec.name != forloop.first %}
+                    {% if sec.name == forloop.first %}
                     <p>Ioanna</p>
                     {% endif %}
                 </div>
