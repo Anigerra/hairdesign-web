@@ -19,7 +19,9 @@ title: Preise
                     </p>
                 </div>
                 <div class="column">
+                    {% if sec.name != "Beauty Treatments" %}
                     <p>Irina</p>
+                    {% endif %}
                 </div>
                 <div class="column">
                     {% if sec.name != "Beauty Treatments" %}
