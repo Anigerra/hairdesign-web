@@ -125,7 +125,6 @@ Ich freue mich darauf, Sie in meinem Salon willkommen zu heißen!
         <div class="block">
             <strong>&Ouml;ffnungszeiten</strong>
             <br/>
-            Mo &ndash; Fr 9 &ndash; 18 Uhr<br/>
             Termin nach Vereinbarung
         </div>
     </div>
