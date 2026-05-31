@@ -14,9 +14,9 @@ title: Preise
         <div class="column mx-4">
             <div class="columns is-mobile mb-0">
                 <div class="column is-half mgl-small">
-                <p class="has-text-weight-bold">
-                    {{ sec.name | upcase }}
-                </p>
+                    <p class="has-text-weight-bold">
+                        {{ sec.name | upcase }}
+                    </p>
                 </div>
                 <div class="column">
                     <p>Irina</p>
@@ -40,6 +40,7 @@ title: Preise
                         <div class="column">
                             <p>{{ leistung.top }}</p>
                         </div>
+                    </div>
                     {% endfor %}
                 {% endfor %}
             </div>
