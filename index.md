@@ -40,9 +40,6 @@ Ich freue mich darauf, Sie in meinem Salon willkommen zu heißen!
         <div class="block">
             <strong>&Ouml;ffnungszeiten</strong>
             <br/>
-            <i class="fa fa-clock-o" aria-hidden="true"></i>
-            Mo &ndash; Fr 9 &ndash; 18 Uhr
-            <br/>
             Termin nach Vereinbarung
         </div>
         <div class="block">
