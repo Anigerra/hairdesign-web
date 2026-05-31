@@ -21,7 +21,8 @@ sections:
       - name: Kinder
         class: has-text-weight-bold 
         leistungen: 
-          - name: ab 6 Jahren
+          - name: 
+            genauer: ab 6 Jahren
             top: 25,-
   - name: Color Treatments
     subsections:
