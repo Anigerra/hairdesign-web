@@ -36,7 +36,7 @@ title: Preise
                 {% for leistung in subsec.leistungen %}
                     <div class="columns is-mobile">
                         <div class="column is-half mgl-small">
-                            <p>{{ leistung.name | upcase }}</p>
+                            <p>{{ leistung.name | default: "" | upcase }}</p>
                             <p class="has-text-weight-light">{{ leistung.genauer }}</p>
                         </div>
                         <div class="column">
