@@ -31,8 +31,7 @@ title: Preise
             </div>
             <hr class="mt-0"/>
             {% for subsec in sec.subsections %}
-            <p class="{{subsec.class}} pb-2">{{ sub
-                sec.name | upcase }}</p>
+            <p class="{{subsec.class}} pb-2">{{ subsec.name | upcase }}</p>
                 {% for leistung in subsec.leistungen %}
                     <div class="columns is-mobile">
                         <div class="column is-half mgl-small">
