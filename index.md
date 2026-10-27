@@ -8,7 +8,7 @@ title:
     <div class="container">
         <div class="block">
             <figure class="image is-3by1">
-                <img src="/images/Bild013_flat.jpeg">
+                <img src="/images/Bild100_flat.jpeg">
             </figure>
         </div>
         <div class="block">
