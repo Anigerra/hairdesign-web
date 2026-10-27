@@ -7,7 +7,6 @@ sections:
           - name: Haarschnitt & Styling
             genauer: Beratung - Verw&ouml;hnhaarw&auml;sche - Typgerechter Haarschnitt - Frisurenstyling
             preis: ab 67,-
-            top: ab 45,-
           - name: Styling
             genauer: Beratung - Verwöhnhaarwäsche - Frisurenstyling
             preis: ab 42,-
@@ -17,12 +16,6 @@ sections:
           - name: Herrenpaket Basic
             genauer: Haarwäsche - Typgerechter Haarschnitt - Finish
             preis: 39,-
-            top: 27,-
-      - name: Kinder
-        class: has-text-weight-bold 
-        leistungen: 
-          - name: ab 6 Jahren
-            top: 25,-
   - name: Color Treatments
     subsections:
       - name: Coloration
@@ -40,11 +33,9 @@ sections:
           - name: "- Oberkopf"
             genauer:
             preis: ab 103,-
-            top: ab 60,-
           - name: "- Ganzer Kopf"
             genauer:
             preis: ab 160,-
-            top: ab 120,-
           - name: "- Lang"
             genauer:
             preis: ab 200,-
